@@ -1,0 +1,32 @@
+body {
+    font-family: font-family: 'Lato', sans-serif;
+    border-bottom: 15px solid #BDC3C7;
+    padding: 10px 10px;
+    border-top: 15px solid #BDC3C7;
+    border-left:15px solid #BDC3C7;
+    border-right: 15px solid #BDC3C7;
+    
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 3.2px;
+    font-weight: bold;
+    font-color: #3D3D3D;
+    font-size: 35px;
+    
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: #BDC3C7;
+    text-align: right;
+    color: #3498DB;
+}
+
+h3 {
+    font-famiily: 'Lato', sans-serif;
+    border-bottom: 5px solid #BDC3C7;
+    text-align: right;
+}
+
